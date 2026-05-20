@@ -1,5 +1,13 @@
 ![Innovative Solutions Banner](https://media.licdn.com/dms/image/v2/D5612AQFD0W6mkmme-g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1700251940048?e=2147483647&v=beta&t=Cmllstl6OpFPGMRwkFwTRZvFwFNBJ1WzOF4Aya1Di9c)
 
+### 🏢 Legal & Company Information
+
+| Item | Details |
+|:---|:---|
+| **Company Name** | 時空行銷有限公司 |
+| **Business Registration Number** | 52368506 |
+| **Service Areas** | Software Development / Marketing Strategy / Investment Research |
+
 ## ☕ **Reday To Talk To Me**
 
 
