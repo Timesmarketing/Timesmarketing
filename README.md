@@ -161,7 +161,7 @@ Through **continuous evaluation and optimization**, we ensure strategies align w
    [Talk On Telegram](https://t.me/talktalk)
 
    - ![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=googlevoice&logoColor=white)
-   [Call Us - ](tel:+886935190541) 
+   [Call Us - 0935190541](tel:+886935190541) 
 
 
 ### 🤝 Our Commitment
