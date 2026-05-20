@@ -155,10 +155,13 @@ Through **continuous evaluation and optimization**, we ensure strategies align w
 
 2. **Direct Communication Channels**
    - ![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)
-   [Click To Mail](mailto:hello@TalkTalk.com)
+   [Click To Mail](mailto:hello@linlink.com)
 
    - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white) 
    [Talk On Telegram](https://t.me/talktalk)
+
+   - ![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=googlevoice&logoColor=white)
+   [Call Us - ](tel:+886935190541) 
 
 
 ### 🤝 Our Commitment
