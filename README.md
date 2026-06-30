@@ -168,9 +168,6 @@ Through **continuous evaluation and optimization**, we ensure strategies align w
    - ![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white) 
    [Talk On Telegram](https://t.me/talktalk)
 
-   - ![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=googlevoice&logoColor=white)
-   [Call Us - 0935190541](tel:+886935190541) 
-
 
 ### 🤝 Our Commitment
 We provide a thorough, confidential, and strategic approach to understanding your unique business challenges. Our team is dedicated to transforming your innovative ideas into actionable strategies.
